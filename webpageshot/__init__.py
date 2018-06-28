@@ -1,5 +1,5 @@
 import argparse
-from pageshot.converter import to_png
+from webpageshot.converter import to_png
 from pygments import highlight
 from pygments.formatters import HtmlFormatter, ImageFormatter
 from pygments.lexers import PythonLexer
